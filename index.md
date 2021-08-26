@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Deeppool
 
 You can use the [editor on GitHub](https://github.com/abdelzahermohamed/deeppool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,11 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Abdelzaher's page](https://abdelzahermohamed.github.io/abdelzahermohamed/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdelzahermohamed/deeppool/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
